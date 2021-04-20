@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: khekumar
+Build-Jdk: 11.0.10
+Main-Class: com.sapient.trg.pl.HelloWorld
+Created-By: Maven Integration for Eclipse
+
